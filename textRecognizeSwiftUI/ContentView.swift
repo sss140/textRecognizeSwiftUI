@@ -5,7 +5,7 @@
 //  Created by 佐藤一成 on 2020/06/05.
 //  Copyright © 2020 s140. All rights reserved.
 //
-
+//test
 import SwiftUI
 
 struct ContentView: View {
